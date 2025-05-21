@@ -1,5 +1,5 @@
 ### Similarity-Based-Methods
-####Link prediction in networks using similarity-based methods such as Common Neighbors, Jaccard and etc.
+#### Link prediction in networks using similarity-based methods such as Common Neighbors, Jaccard and etc.
 
 If you use this code in your research or projects, please cite the associated article:
 
