@@ -1,5 +1,6 @@
 ### Similarity-Based-Methods
 #### Link prediction in networks using similarity-based methods such as Common Neighbors, Jaccard and etc.
+This project demonstrates how to perform **link prediction** on graph data using classical **similarity-based algorithms**. These unsupervised methods estimate the likelihood of a future or missing link between two nodes based on network structure.
 
 If you use this code in your research or projects, please cite the associated article:
 
